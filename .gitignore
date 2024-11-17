@@ -2,7 +2,9 @@
 .venv
 
 # Directories with course themes
-lesson*/**
+# lesson*/**
+
+yolov5
 
 # Игнорировать все .DS_Store файлы
 **/.DS_Store
